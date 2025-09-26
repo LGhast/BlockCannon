@@ -1,15 +1,15 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "combat",
+  "category": "misc",
   "key": {
     "D": {
       "item": "minecraft:dispenser"
     },
-    "R": {
-      "item": "minecraft:redstone_comparator"
-    },
     "I": {
       "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:comparator"
     },
     "H": {
       "item": "minecraft:hopper"
@@ -18,7 +18,7 @@
   "pattern": [
     "IHI",
     "RDR",
-    "IGI"
+    "IRI"
   ],
   "result": {
     "count": 1,
