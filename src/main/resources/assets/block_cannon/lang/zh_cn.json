@@ -1,0 +1,8 @@
+{
+  "item.block_cannon.block_cannon": "方块炮",
+  "entity.block_cannon.block_shot": "方块弹",
+  "enchantment.block_cannon.massiveness": "沉重",
+  "enchantment.block_cannon.aftershock": "余震",
+  "tooltip.block_cannon.shot_no": "无弹药",
+  "tooltip.block_cannon.shot": "§7弹药：%s"
+}

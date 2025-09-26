@@ -1,0 +1,8 @@
+{
+  "item.block_cannon.block_cannon": "砲",
+  "entity.block_cannon.block_shot": "砲彈",
+  "enchantment.block_cannon.massiveness": "沉重",
+  "enchantment.block_cannon.aftershock": "震",
+  "tooltip.block_cannon.shot_no": "彈盡",
+  "tooltip.block_cannon.shot": "§7彈：%s"
+}

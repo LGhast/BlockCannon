@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "block_cannon:item/block_cannon_normal",
+      "predicate": {
+        "block_cannon:shooting": 0.0
+      }
+    },
+    {
+      "model": "block_cannon:item/block_cannon_shooting",
+      "predicate": {
+        "block_cannon:shooting": 1.0
+      }
+    }
+  ]
+}

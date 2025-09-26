@@ -1,0 +1,8 @@
+{
+  "item.block_cannon.block_cannon": "Block Cannon",
+  "entity.block_cannon.block_shot": "Block Shot",
+  "enchantment.block_cannon.massiveness": "Massiveness",
+  "enchantment.block_cannon.aftershock": "Aftershock",
+  "tooltip.block_cannon.shot_no": "No Shot",
+  "tooltip.block_cannon.shot": "§7Shot: %s"
+}
